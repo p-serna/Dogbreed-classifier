@@ -10,6 +10,13 @@ The app is presented as two-steps solution. First, we used standard algorithms t
 
 <img src="scheme.png" alt="Scheme of two-steps solution" style="width: 100%;"/>
 
+## For Review
+
+- Data exploration notebook: [pdf](data exploration.pdf) or [html](data exploration.html).
+- Dog app notebook: [pdf](dog_app.pdf) or [html](dog_app.html).
+  
+  
+
 ## Datasets
 
 Dogs Database - Udacity
