@@ -12,10 +12,11 @@ The app is presented as two-steps solution. First, we used standard algorithms t
 
 ## For Review
 
-- Data exploration notebook: [pdf](data exploration.pdf) or [html](data exploration.html).
-- Dog app notebook: [pdf](dog_app.pdf) or [html](dog_app.html).
-  
-  
+All documents for review are in docs folder as pdfs or html.
+
+- [Report](docs/report.pdf) and [proposal](docs/proposal.pdf) are in docs folder.
+- Data exploration notebook: [pdf](docs/data exploration.pdf) or [html](docs/data exploration.html).
+- Dog app notebook: [pdf](docs/dog_app.pdf) or [html](docs/dog_app.html).
 
 ## Datasets
 
